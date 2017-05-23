@@ -9,5 +9,8 @@
   <p> 3. produto entre os numerois digitados </p>
   <p> 4. divisao do primeiro pelo segundo </p>
   <p> opçao <input type="number" id="opcao"> </p>
+  <p> numero1 <input type="number" id="nro1"> </p>
+  <p> numero2 <input type="number" id="nro2"> </p>
+  <p> <button onclick="opera()">calcula</button> </p>
 </body>
 </html>
